@@ -10,7 +10,7 @@ def convertEpoch(timestamp):
 
 def curls(timestamp):
     req = 'https://na.api.pvp.net/api/lol/na/v4.1/game/ids?beginDate=' + str(timestamp) + '&api_key=1c692a41-8f5a-4360-bc7e-5c86dd323a91'
-    r = requests.get(req)
+    r = requests.get(req, verify = False)
     return r
 
 t = datetime.now() # Get the time right now
