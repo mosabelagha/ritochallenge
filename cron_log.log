@@ -1,0 +1,136 @@
+/home/ec2-user
+/home/ec2-user
+/home/ec2-user
+/home/ec2-user
+/home/ec2-user
+1/96 files retrieved
+2/96 files retrieved
+3/96 files retrieved
+4/96 files retrieved
+5/96 files retrieved
+6/96 files retrieved
+7/96 files retrieved
+8/96 files retrieved
+9/96 files retrieved
+10/96 files retrieved
+11/96 files retrieved
+12/96 files retrieved
+13/96 files retrieved
+14/96 files retrieved
+15/96 files retrieved
+16/96 files retrieved
+17/96 files retrieved
+18/96 files retrieved
+19/96 files retrieved
+20/96 files retrieved
+21/96 files retrieved
+22/96 files retrieved
+23/96 files retrieved
+24/96 files retrieved
+25/96 files retrieved
+26/96 files retrieved
+27/96 files retrieved
+28/96 files retrieved
+29/96 files retrieved
+30/96 files retrieved
+31/96 files retrieved
+32/96 files retrieved
+33/96 files retrieved
+34/96 files retrieved
+35/96 files retrieved
+36/96 files retrieved
+37/96 files retrieved
+38/96 files retrieved
+39/96 files retrieved
+40/96 files retrieved
+41/96 files retrieved
+42/96 files retrieved
+43/96 files retrieved
+44/96 files retrieved
+45/96 files retrieved
+46/96 files retrieved
+47/96 files retrieved
+48/96 files retrieved
+49/96 files retrieved
+50/96 files retrieved
+51/96 files retrieved
+52/96 files retrieved
+53/96 files retrieved
+54/96 files retrieved
+55/96 files retrieved
+56/96 files retrieved
+57/96 files retrieved
+58/96 files retrieved
+59/96 files retrieved
+60/96 files retrieved
+61/96 files retrieved
+62/96 files retrieved
+63/96 files retrieved
+64/96 files retrieved
+65/96 files retrieved
+66/96 files retrieved
+67/96 files retrieved
+68/96 files retrieved
+69/96 files retrieved
+70/96 files retrieved
+71/96 files retrieved
+72/96 files retrieved
+73/96 files retrieved
+74/96 files retrieved
+75/96 files retrieved
+76/96 files retrieved
+77/96 files retrieved
+78/96 files retrieved
+79/96 files retrieved
+80/96 files retrieved
+81/96 files retrieved
+82/96 files retrieved
+83/96 files retrieved
+84/96 files retrieved
+85/96 files retrieved
+86/96 files retrieved
+87/96 files retrieved
+88/96 files retrieved
+89/96 files retrieved
+90/96 files retrieved
+91/96 files retrieved
+92/96 files retrieved
+93/96 files retrieved
+94/96 files retrieved
+95/96 files retrieved
+96/96 files retrieved
+Successful run at 2015-04-06_02-05
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+	modified:   cron_log.log
+	modified:   schedule.sh
+	modified:   scrape.py
+
+Untracked files:
+	matches/2015-04-06_02-00/
+	matches/2015-04-06_02-05/
+
+no changes added to commit
+Successful run at 2015-04-06_02-10
+Updating f7f9234..34276c7
+Fast-forward
+ riot-api-challenge-server.pem.txt | 23 +++++++++++++++++++++++
+ ssh-aws.sh                        |  2 ++
+ 2 files changed, 25 insertions(+)
+ create mode 100644 riot-api-challenge-server.pem.txt
+ create mode 100755 ssh-aws.sh
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+	modified:   cron_log.log
+	modified:   schedule.sh
+	modified:   scrape.py
+
+Untracked files:
+	matches/2015-04-06_02-00/
+	matches/2015-04-06_02-05/
+	matches/2015-04-06_02-10/
+
+no changes added to commit
+Already up-to-date.

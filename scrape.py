@@ -22,12 +22,14 @@ if (t.minute % 5 != 0):
     t = t.replace(minute=newminute)
 
 epoch = convertEpoch(t)
-os.mkdir(t.strftime('matches/%Y-%m-%d_%H-%M'))
+os.mkdir(t.strftime('ritochallenge/matches/%Y-%m-%d_%H-%M'))
 for i in range(0, 96):
     epoch -= 300
     req = curls(int(epoch))
     time.sleep(1)
-    txt_file = open(('matches/' + t.strftime('%Y-%m-%d_%H-%M') + '/' + str(int(epoch)) + '.json'), 'w')
+    txt_file = open(('ritochallenge/matches/' + t.strftime('%Y-%m-%d_%H-%M') + '/' + str(int(epoch)) + '.json'), 'w')
     txt_file.write(str(req.json()))
-    print(str(i+1) + "/96 files retrieved")
+   
+print "Successful run at " + t.strftime('%Y-%m-%d_%H-%M')
+
 
