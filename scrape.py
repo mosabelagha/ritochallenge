@@ -34,9 +34,11 @@ for i in range(0, 96):
     req = curls(int(epoch))
     fuckyoumosab.append(req.json())
     time.sleep(1)
-    txt_file = open(('matches/' + t.strftime('%Y-%m-%d_%H-%M') + '/' + str(int(epoch)) + '.json'), 'w')
+    txt_file = open(('ritochallenge/matches/' + t.strftime('%Y-%m-%d_%H-%M') + '/' + str(int(epoch)) + '.json'), 'w')
     txt_file.write(str(req.json()))
-    print(str(i+1) + "/96 files retrieved")
+   
+print "Successful run at " + t.strftime('%Y-%m-%d_%H-%M')
+
 
 for row in fuckyoumosab:
     i = 0
