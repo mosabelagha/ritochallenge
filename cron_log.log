@@ -5667,3 +5667,112 @@ Already up-to-date.
  create mode 100644 matches/2015-04-12_16-00/1428854100.json
 Successful run at 2015-04-12_20-00
 Already up-to-date.
+[master 367a9d8] Added files - AMAZON
+ 97 files changed, 196 insertions(+)
+ create mode 100644 matches/2015-04-12_20-00/1428840000.json
+ create mode 100644 matches/2015-04-12_20-00/1428840300.json
+ create mode 100644 matches/2015-04-12_20-00/1428840600.json
+ create mode 100644 matches/2015-04-12_20-00/1428840900.json
+ create mode 100644 matches/2015-04-12_20-00/1428841200.json
+ create mode 100644 matches/2015-04-12_20-00/1428841500.json
+ create mode 100644 matches/2015-04-12_20-00/1428841800.json
+ create mode 100644 matches/2015-04-12_20-00/1428842100.json
+ create mode 100644 matches/2015-04-12_20-00/1428842400.json
+ create mode 100644 matches/2015-04-12_20-00/1428842700.json
+ create mode 100644 matches/2015-04-12_20-00/1428843000.json
+ create mode 100644 matches/2015-04-12_20-00/1428843300.json
+ create mode 100644 matches/2015-04-12_20-00/1428843600.json
+ create mode 100644 matches/2015-04-12_20-00/1428843900.json
+ create mode 100644 matches/2015-04-12_20-00/1428844200.json
+ create mode 100644 matches/2015-04-12_20-00/1428844500.json
+ create mode 100644 matches/2015-04-12_20-00/1428844800.json
+ create mode 100644 matches/2015-04-12_20-00/1428845100.json
+ create mode 100644 matches/2015-04-12_20-00/1428845400.json
+ create mode 100644 matches/2015-04-12_20-00/1428845700.json
+ create mode 100644 matches/2015-04-12_20-00/1428846000.json
+ create mode 100644 matches/2015-04-12_20-00/1428846300.json
+ create mode 100644 matches/2015-04-12_20-00/1428846600.json
+ create mode 100644 matches/2015-04-12_20-00/1428846900.json
+ create mode 100644 matches/2015-04-12_20-00/1428847200.json
+ create mode 100644 matches/2015-04-12_20-00/1428847500.json
+ create mode 100644 matches/2015-04-12_20-00/1428847800.json
+ create mode 100644 matches/2015-04-12_20-00/1428848100.json
+ create mode 100644 matches/2015-04-12_20-00/1428848400.json
+ create mode 100644 matches/2015-04-12_20-00/1428848700.json
+ create mode 100644 matches/2015-04-12_20-00/1428849000.json
+ create mode 100644 matches/2015-04-12_20-00/1428849300.json
+ create mode 100644 matches/2015-04-12_20-00/1428849600.json
+ create mode 100644 matches/2015-04-12_20-00/1428849900.json
+ create mode 100644 matches/2015-04-12_20-00/1428850200.json
+ create mode 100644 matches/2015-04-12_20-00/1428850500.json
+ create mode 100644 matches/2015-04-12_20-00/1428850800.json
+ create mode 100644 matches/2015-04-12_20-00/1428851100.json
+ create mode 100644 matches/2015-04-12_20-00/1428851400.json
+ create mode 100644 matches/2015-04-12_20-00/1428851700.json
+ create mode 100644 matches/2015-04-12_20-00/1428852000.json
+ create mode 100644 matches/2015-04-12_20-00/1428852300.json
+ create mode 100644 matches/2015-04-12_20-00/1428852600.json
+ create mode 100644 matches/2015-04-12_20-00/1428852900.json
+ create mode 100644 matches/2015-04-12_20-00/1428853200.json
+ create mode 100644 matches/2015-04-12_20-00/1428853500.json
+ create mode 100644 matches/2015-04-12_20-00/1428853800.json
+ create mode 100644 matches/2015-04-12_20-00/1428854100.json
+ create mode 100644 matches/2015-04-12_20-00/1428854400.json
+ create mode 100644 matches/2015-04-12_20-00/1428854700.json
+ create mode 100644 matches/2015-04-12_20-00/1428855000.json
+ create mode 100644 matches/2015-04-12_20-00/1428855300.json
+ create mode 100644 matches/2015-04-12_20-00/1428855600.json
+ create mode 100644 matches/2015-04-12_20-00/1428855900.json
+ create mode 100644 matches/2015-04-12_20-00/1428856200.json
+ create mode 100644 matches/2015-04-12_20-00/1428856500.json
+ create mode 100644 matches/2015-04-12_20-00/1428856800.json
+ create mode 100644 matches/2015-04-12_20-00/1428857100.json
+ create mode 100644 matches/2015-04-12_20-00/1428857400.json
+ create mode 100644 matches/2015-04-12_20-00/1428857700.json
+ create mode 100644 matches/2015-04-12_20-00/1428858000.json
+ create mode 100644 matches/2015-04-12_20-00/1428858300.json
+ create mode 100644 matches/2015-04-12_20-00/1428858600.json
+ create mode 100644 matches/2015-04-12_20-00/1428858900.json
+ create mode 100644 matches/2015-04-12_20-00/1428859200.json
+ create mode 100644 matches/2015-04-12_20-00/1428859500.json
+ create mode 100644 matches/2015-04-12_20-00/1428859800.json
+ create mode 100644 matches/2015-04-12_20-00/1428860100.json
+ create mode 100644 matches/2015-04-12_20-00/1428860400.json
+ create mode 100644 matches/2015-04-12_20-00/1428860700.json
+ create mode 100644 matches/2015-04-12_20-00/1428861000.json
+ create mode 100644 matches/2015-04-12_20-00/1428861300.json
+ create mode 100644 matches/2015-04-12_20-00/1428861600.json
+ create mode 100644 matches/2015-04-12_20-00/1428861900.json
+ create mode 100644 matches/2015-04-12_20-00/1428862200.json
+ create mode 100644 matches/2015-04-12_20-00/1428862500.json
+ create mode 100644 matches/2015-04-12_20-00/1428862800.json
+ create mode 100644 matches/2015-04-12_20-00/1428863100.json
+ create mode 100644 matches/2015-04-12_20-00/1428863400.json
+ create mode 100644 matches/2015-04-12_20-00/1428863700.json
+ create mode 100644 matches/2015-04-12_20-00/1428864000.json
+ create mode 100644 matches/2015-04-12_20-00/1428864300.json
+ create mode 100644 matches/2015-04-12_20-00/1428864600.json
+ create mode 100644 matches/2015-04-12_20-00/1428864900.json
+ create mode 100644 matches/2015-04-12_20-00/1428865200.json
+ create mode 100644 matches/2015-04-12_20-00/1428865500.json
+ create mode 100644 matches/2015-04-12_20-00/1428865800.json
+ create mode 100644 matches/2015-04-12_20-00/1428866100.json
+ create mode 100644 matches/2015-04-12_20-00/1428866400.json
+ create mode 100644 matches/2015-04-12_20-00/1428866700.json
+ create mode 100644 matches/2015-04-12_20-00/1428867000.json
+ create mode 100644 matches/2015-04-12_20-00/1428867300.json
+ create mode 100644 matches/2015-04-12_20-00/1428867600.json
+ create mode 100644 matches/2015-04-12_20-00/1428867900.json
+ create mode 100644 matches/2015-04-12_20-00/1428868200.json
+ create mode 100644 matches/2015-04-12_20-00/1428868500.json
+Successful run at 2015-04-13_00-00
+Updating 367a9d8..bc8e626
+Fast-forward
+ matches/2015-04-12_15-40/1428852600.json |  1 +
+ matches/2015-04-12_15-40/1428852900.json |  1 +
+ scrape.py                                | 20 +++++++++++++++++++-
+ yo                                       |  0
+ 4 files changed, 21 insertions(+), 1 deletion(-)
+ create mode 100644 matches/2015-04-12_15-40/1428852600.json
+ create mode 100644 matches/2015-04-12_15-40/1428852900.json
+ delete mode 100644 yo
