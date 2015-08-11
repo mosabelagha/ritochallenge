@@ -1,3 +1,3 @@
 # ritochallenge
 
-fuck you jeff
+ jeff
