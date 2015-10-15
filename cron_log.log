@@ -9205,3 +9205,12 @@ Already up-to-date.
 [master 481ad1f] Added files - AMAZON
  1 file changed, 3 insertions(+)
 Already up-to-date.
+[master aafdc74] Added files - AMAZON
+ 1 file changed, 3 insertions(+)
+Updating aafdc74..4805221
+Fast-forward
+ riot-api-challenge-server.pem.txt | 23 -----------------------
+ ssh-aws.sh                        |  2 --
+ 2 files changed, 25 deletions(-)
+ delete mode 100644 riot-api-challenge-server.pem.txt
+ delete mode 100755 ssh-aws.sh
